@@ -12,6 +12,8 @@ pip install selenium
 If you are stuck at Login page then just close everything and restart.
 Tinder Adds randomness to its Login Pages which may create problem sometimes.
 
+This will also count the no. of Right and Left Swipes.
+
 At the end of the script type your username and password 
 Enjoy!!
 
