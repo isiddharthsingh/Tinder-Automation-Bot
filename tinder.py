@@ -49,8 +49,8 @@ class Tinderbot():
         #Handle Popups
         sleep(7)
         self.driver.find_element_by_xpath('//*[@id="modal-manager"]/div/div/div/div/div[3]/button[1]').click()
-        self.driver.find_element_by_xpath('//*[@id="content"]/div/div[3]/div/button').click()
-        self.driver.find_element_by_xpath('//*[@id="modal-manager"]/div/div/div/div/div[3]/button[1]').click()
+        elf.driver.find_element_by_xpath('//*[@id="modal-manager"]/div/div/div/div/div[3]/button[1]').click()
+        self.driver.find_element_by_xpath('//*[@id="content"]/div/div[2]/div/div/div[1]/div/button').click()
         sleep(4)
         #self.driver.find_element_by_xpath('//*[@id="modal-manager"]/div/div/div[2]/button').click()
 
